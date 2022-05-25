@@ -1,0 +1,22 @@
+{
+    "name": "demo",
+    "description": "demo",
+    "keywords": ["demo"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
+        },
+        "AID": {
+            "description": "AlterID",
+            "value": "0"
+        },
+        "PORT": {
+            "description": "Port",
+            "value": "80"
+        }
+    },
+    "website": "https://google.com",
+    "repository": "https://github.com/",
+    "stack": "container"
+}
