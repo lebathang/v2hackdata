@@ -1,4 +1,4 @@
-# Hướng dẫn cài đặt server V2ray
+# Hướng dẫn tạo server V2ray
 ### Các bước để cài đặt server v2ray
 - Tạo một cái account [**Heroku**](https://www.heroku.com)
 - Fork lại cái repository này của bác có nick name là **Fioren** ( là 1 moderator tại **VOZ** 4rum) ---> [**FiorenMas/v2**](https://github.com/FiorenMas/v2)
