@@ -9,7 +9,7 @@
 - Khi nó hiện ra cái bảng deloy thì đừng chỉnh sửa gì, chỉ chyển lựa chọn vùng từ mỹ sang EU để cho ping nó thấp
 - Cuối cùng thì ấn deloy rồi ngồi chờ tầm 1 ~ 2 phút
 - Sau khi xong xuôi bước cài đặt server rồi thì tải **v2rayNG** về add thủ công VMess:
-    - **adress** là địa chỉ của app **Heroku**. VD: `abcxyz.herokuapp.com`
+    - **adress**: là địa chỉ của app **Heroku**. VD: `abcxyz.herokuapp.com`
     - `Port: 80` (mặc định); Nếu như dùng mạng vẫn bị trừ tiền, thì deploy lại, cái bảng deploy sửa thành port 443, khi vào app v2rayNG cũng chỉnh lại 443 luôn
     - Mấy cái này cũng là mặc định hết luôn nha:
     ```
