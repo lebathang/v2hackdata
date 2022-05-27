@@ -23,5 +23,5 @@
         1. Viettel: `livestream2.tv360.vn`
         2. Mobifone: `mobiedu.vn`
         3. Vietnamobile: `Vietnamobile.com.vn`
- - <ins>Mình hy vọng mọi người không share bài `vô tội vạ` vì nếu mấy ông Heroku mà biết thì sẽ ban tài khoản của mình cũng như ông mod Fioren do đây là đồ **illegal**, lúc đầu ông mod còn kêu ko được viết **readme** để hướng dẫn nữa cơ</ins> 
+ - <ins>Mình hy vọng mọi người không share bài `vô tội vạ` vì nếu mấy ông bên Heroku mà biết thì sẽ ban tài khoản của mình cũng như ông mod Fioren do đây là đồ **illegal**, lúc đầu ông mod còn kêu ko được viết **readme** để hướng dẫn nữa cơ</ins> 
   
