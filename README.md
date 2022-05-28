@@ -24,5 +24,6 @@
         1. Viettel: `livestream2.tv360.vn`
         2. Mobifone: `mobiedu.vn`
         3. Vietnamobile: `Vietnamobile.com.vn`
- - <ins>Mình hy vọng mọi người không share bài `vô tội vạ` vì nếu mấy ông bên Heroku mà biết thì sẽ ban tài khoản của mình cũng như ông mod Fioren do đây là đồ **illegal**, lúc đầu ông mod còn kêu ko được viết **readme** để hướng dẫn nữa cơ</ins> 
+    - Vì **Heroku** cứ mỗi 30p thì tắt VPS, nên nếu muốn để giữ nó được lâu thì dùng cái repository này ping cho nó thức -->[Kaffeine](https://github.com/RomainButteaud/Kaffeine), tuy nhiên nó chỉ thức liên tục 22 ngày/tháng thôi đó 😃
+  > Mình hy vọng mọi người không share bài `vô tội vạ` vì nếu mấy ông bên Heroku mà biết thì sẽ ban tài khoản của mình cũng như ông mod Fioren do đây là đồ **illegal**, lúc đầu ông mod còn kêu ko được viết **readme** để hướng dẫn nữa cơ
   
