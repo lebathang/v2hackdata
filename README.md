@@ -2,7 +2,7 @@
 ### Các bước để cài đặt server v2ray
 - Tạo một cái account [**Heroku**](https://www.heroku.com)
 - Fork lại cái repository này của mình 
-    - hoặc của bác có nick name là **Fioren** ( là 1 moderator tại **VOZ** 4rum) ---> [**FiorenMas/v2**](https://github.com/FiorenMas/v2)
+    - Bạn cũng có thể fork của bác có nick name là **Fioren** ( là 1 moderator tại **VOZ** 4rum) ---> [**FiorenMas/v2**](https://github.com/FiorenMas/v2)
     - Do ông moderator đó đã bị ban một tài khoản **Heroku** rồi nên mình khuyên là mọi người nên đổi tên cái repository vừa mới Fork thành 1 cái tên nào đó lạ lạ chứ đừng sử dụng mấy cái tên như **V2ray** hay mấy cái tên tương tự!
 - Copy và Paste cái đường link của cái repository vừa mới fork và đổi tên đó vào đây 
     -  `https://dashboard.heroku.com/new?template=https://github.com/XXX tên user/Tên project`
