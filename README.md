@@ -4,8 +4,14 @@
 - Fork lại cái repository này của mình 
     - Hoặc bạn cũng có thể fork lại của bác có nick name là **Fioren** ( là 1 moderator tại **VOZ** 4rum) ---> [**v2**](https://github.com/FiorenMas/v2)
     - Do ông moderator đó đã bị ban một tài khoản **Heroku** rồi nên mình khuyên là mọi người nên đổi tên cái repository vừa mới Fork thành 1 cái tên nào đó lạ lạ chứ đừng sử dụng mấy cái tên như **V2ray** hay mấy cái tên tương tự!
-- Copy và Paste cái đường link của cái repository vừa mới fork và đổi tên đó vào đây 
+- <ins>Cách 1</ins>: Copy và Paste cái đường link của cái repository vừa mới fork và đổi tên đó vào đây 
     -  `https://dashboard.heroku.com/new?template=https://github.com/XXX tên user/Tên project`
+    -  Ví dụ:`https://dashboard.heroku.com/new?template=https://github.com/FiorenMas/myapp`
+- <ins>Cách 2</ins>: Hoặc bạn cũng có thể click vào đây
+
+     [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lebathang/v2hackdata)
+- Sau đó sửa URL thành như thế này
+    - `https://dashboard.heroku.com/new?template=https://github.com/XXX tên user/Tên project`
     -  Ví dụ:`https://dashboard.heroku.com/new?template=https://github.com/FiorenMas/myapp`
 - Khi nó hiện ra cái bảng deloy thì đừng chỉnh sửa gì, chỉ chyển lựa chọn vùng từ mỹ sang EU để cho ping nó thấp
 - Cuối cùng thì ấn deloy rồi ngồi chờ tầm 1 ~ 2 phút
