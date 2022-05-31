@@ -2,15 +2,14 @@
 ### Các bước để cài đặt server v2ray
 - Tạo một cái account [**Heroku**](https://www.heroku.com)
 - <ins>Cách 1</ins>: Fork lại cái repository này của mình 
-    - Hoặc bạn cũng có thể fork lại của bác có nick name là **Fioren** ( là 1 moderator tại **VOZ** 4rum) ---> [**v2**](https://github.com/FiorenMas/v2)
-    - Do ông moderator đó đã bị ban một tài khoản **Heroku** rồi nên mình khuyên là mọi người nên đổi tên cái repository vừa mới Fork thành 1 cái tên nào đó lạ lạ chứ đừng sử dụng mấy cái tên như **V2ray** hay mấy cái tên tương tự!
+    - Vì có ông moderator nick name là **Fioren** tại **VOZ** 4rum đã bị ban một tài khoản **Heroku** rồi nên mình khuyên là mọi người nên đổi tên cái repository vừa mới Fork thành 1 cái tên nào đó lạ lạ chứ đừng sử dụng mấy cái tên như **V2ray** hay mấy cái tên tương tự!
 - Copy và Paste cái đường link của cái repository vừa mới fork và đổi tên đó vào đây 
     -  `https://dashboard.heroku.com/new?template=https://github.com/XXX tên user/Tên project`
     -  Ví dụ:`https://dashboard.heroku.com/new?template=https://github.com/FiorenMas/myapp`
 - <ins>Cách 2</ins>: Hoặc bạn cũng có thể click vào đây
 
      [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lebathang/v2hackdata)
-    - Dành cho người thích `mì ăn liền`, tuy nhiên cái repository mà bạn đang deloy trên **Heroku** là của mình chứ không phải của bạn nên bạn ko có quyền nào khác, còn nếu bạn làm theo <ins>cách 1</ins> thì cái repo là do bạn sở hữu nên bạn có quyền chỉnh sửa theo ý thích của bạn, và mình có thể sẽ xóa cái repo này trong 1 ngày nào đó, nên hãy tạo bản sao cho bạn
+    - Dành cho người thích `mì ăn liền`, tuy nhiên cái repository mà bạn đang deloy trên **Heroku** là của mình chứ không phải của bạn nên bạn ko có quyền nào khác, còn nếu bạn làm theo <ins>cách 1</ins> thì cái repo là do bạn sở hữu nên bạn có quyền chỉnh sửa theo ý thích của bạn, và mình có thể sẽ bị xóa cái repo này trong 1 ngày nào đó, nên hãy tạo bản sao cho bạn
 - Khi nó hiện ra cái bảng deloy thì đừng chỉnh sửa gì, chỉ chyển lựa chọn vùng từ mỹ sang EU để cho ping nó thấp
 - Cuối cùng thì ấn deloy rồi ngồi chờ tầm 1 ~ 2 phút
 - Sau khi xong xuôi bước cài đặt server rồi thì tải **v2rayNG** về add thủ công VMess:
